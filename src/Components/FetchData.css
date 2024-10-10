@@ -17,6 +17,13 @@
     align-items: center;
     justify-content: center;
   }
+
+  .food_image{
+    width: 100px;
+    height: 100px;
+    object-fit: scale-down;
+    border: rgb(111, 111, 244) 2px solid;
+  }
   
   .list_data h3 {
     margin-top: 0;
